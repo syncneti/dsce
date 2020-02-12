@@ -1,0 +1,13 @@
+name: Video Background
+type: module
+description: 'Easy as hell for video backgrounds.'
+package: 'User interface'
+# core: 8.x
+configure: videobackground.admin_settings
+# core: '8.x'
+
+# Information added by Drupal.org packaging script on 2018-09-29
+version: '8.x-1.2'
+core: '8.x'
+project: 'videobackground'
+datestamp: 1538221683
